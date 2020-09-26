@@ -1,0 +1,12 @@
+{
+  "name": "product-app",
+  "version": "1.0.0",
+  "description": "Expensess tracking app for Semos JavaScript Academy 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
